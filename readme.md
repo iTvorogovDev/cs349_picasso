@@ -27,7 +27,9 @@ Features:
     1.1 Selection tool - selects a shape. Press Escape key to deselect or click elsewhere to select another shape.
         While a shape is selected, its color and outline thickness can be changed via the corresponding options on
         the palette.
+        
     1.2 Erase tool - removes the clicked shape from canvas.
+    
     1.3 Line tool - drag the mouse on the canvas to draw a straight line.
     1.4 Circle tool - drag the mouse on the canvas to draw a circle.
     1.5 Rectangle tool - drag the mouse on the canvas to draw rectangle.
