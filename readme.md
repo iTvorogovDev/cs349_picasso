@@ -31,8 +31,11 @@ Features:
     1.2 Erase tool - removes the clicked shape from canvas.
     
     1.3 Line tool - drag the mouse on the canvas to draw a straight line.
+    
     1.4 Circle tool - drag the mouse on the canvas to draw a circle.
+    
     1.5 Rectangle tool - drag the mouse on the canvas to draw rectangle.
+    
     1.6 Fill tool - click on a shape to toggle between drawing a filled shape or just the outline,
         and change its color to the one currently selected on a palette.
 
